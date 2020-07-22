@@ -11,7 +11,7 @@ Run this code to install the required packcages:
    
 Then activate the conda environment: 
 
-    $ activate bin2pcd
+    $ conda activate bin2pcd
 
 # Usage
 
