@@ -15,7 +15,7 @@ Then activate the conda environment:
 
 # Usage
 
-To use it:
+To use it, run:
 
-    $ bin_pcd_converter --help
+    $ python bin_pcd_converter/cli.py --help
 
