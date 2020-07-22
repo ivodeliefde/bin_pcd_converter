@@ -5,13 +5,13 @@ Conversion tool for the point cloud formats .bin and .pcd
 
 # Installation
 
-If you don't use `pipsi`, you're missing out.
-Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
+Run this code to install the required packcages: 
 
-Simply run:
+    $ conda env create -f environment.yml
+   
+Then activate the conda environment: 
 
-    $ pipsi install .
-
+    $ activate bin2pcd
 
 # Usage
 
